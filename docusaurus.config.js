@@ -1,8 +1,9 @@
 module.exports = {
   title: "no1strategy",
   tagline: "The tagline of my site",
-  url: "https://no1strategy.com",
-  baseUrl: "/",
+  url: "https://rnowm.github.io.",
+  // url: "https://no1strategy.com",
+  baseUrl: "/no1strategy/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
   organizationName: "rnowm", // Usually your GitHub org/user name.
